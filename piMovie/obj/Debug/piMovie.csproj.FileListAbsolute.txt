@@ -1,0 +1,14 @@
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\bin\Debug\piMovie.exe.config
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\bin\Debug\piMovie.exe
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\bin\Debug\piMovie.pdb
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\piMovie.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\MainWindow.g.cs
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\App.g.cs
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\piMovie_MarkupCompile.cache
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\piMovie_MarkupCompile.lref
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\MainWindow.baml
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\piMovie.g.resources
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\piMovie.Properties.Resources.resources
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\piMovie.csproj.GenerateResource.Cache
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\piMovie.exe
+c:\users\erik\documents\visual studio 2017\Projects\piMovie\piMovie\obj\Debug\piMovie.pdb
