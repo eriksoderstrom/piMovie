@@ -73,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="myClasses\CheckKey.cs" />
+    <Compile Include="myClasses\StateObject.cs" />
     <Compile Include="myClasses\TCPConnection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>

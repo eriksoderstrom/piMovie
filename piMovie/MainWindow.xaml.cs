@@ -1,4 +1,5 @@
-﻿using System;
+﻿using piMovie.myClasses;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Management;
@@ -28,7 +29,7 @@ namespace piMovie
 
 
         // TCP 
-        Int32 port = 10000;
+        Int32 port = 9999;
         IPAddress host = IPAddress.Parse("192.168.0.9");
 
 
@@ -37,9 +38,12 @@ namespace piMovie
             InitializeComponent();
             string[] args = Environment.GetCommandLineArgs();
 
-            if (args[1] != null)
+            if (args.Length > 1)
             {
-                connectToPi(args[1]);
+                if(args[1] != null)
+                {
+                    connectToPi(args[1]);
+                }
             }
 
             for(int i = 0; i < args.Length; i ++)
@@ -104,7 +108,10 @@ namespace piMovie
             }
 
             // Done  with sharing
+            // Connect to server.
+            TCPConnection conn = new TCPConnection();
 
+            conn.ConnectToServer();
 
         }
 
